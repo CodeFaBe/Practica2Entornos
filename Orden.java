@@ -6,7 +6,7 @@ public class Orden {
   private int identificador;
   private Vector itemsPedido;
   private int ordenTotal; 
-  
+  private string esto es de prueba;
 public Orden(int identificador){
 this.identificador=identificador;
 itemsPedido= new Vector();

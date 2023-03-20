@@ -5,6 +5,7 @@ public class Orden {
 
   private int identificador;
   private Vector itemsPedido;
+  private int ordenTotal; 
   
 public Orden(int identificador){
 this.identificador=identificador;
